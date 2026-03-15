@@ -1,6 +1,6 @@
 <div align="center">
 
-# NO VIP - App优化模块
+# VIP Helper - App优化模块
 
 </div>
 
