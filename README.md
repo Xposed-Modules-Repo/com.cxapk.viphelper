@@ -35,3 +35,4 @@
 ## 贡献者
 
 腾讯元宝（yuanbao.tencent.com）
+DeepSeek（deepseek.com）
